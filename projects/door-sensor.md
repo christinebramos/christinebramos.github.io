@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/doorsensor.png
+image: images/doorsensor.JPG
 title: IR Door Sensor
 permalink: projects/doorsensor
 # All dates must be YYYY-MM-DD format!
@@ -13,7 +13,7 @@ labels:
 summary: An Infrared sensor based project to count the number of individuals entering and exiting a room.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/doorsensor.png">
+<img class="ui medium right floated rounded image" src="../images/doorsensor.JPG">
 
 This door sensor is a project I have created that was based on my sophomore project that was completed in Spring 2018.
 
