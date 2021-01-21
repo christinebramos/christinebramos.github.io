@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/embryo.png
+image: images/embryo.jpeg
 title: Embryo Image Analysis
 permalink: projects/embryo
 # All dates must be YYYY-MM-DD format!
