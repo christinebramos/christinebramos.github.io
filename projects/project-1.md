@@ -20,7 +20,7 @@ summary: Partnered with the company DataHouse, my team and I designed, developed
   <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
 
-During the Spring 2020 semester, I had the great opportunity of working alongside professional mentors from the company <a href="https://www.datahouse.com">DataHouse> and six other Computer Engineering students to develop a software-based solution for the Animal Quarantine facility, located at the Daniel K. Inouye International Airport here on the island of Oahu.
+During the Spring 2020 semester, I had the great opportunity of working alongside professional mentors from the company [DataHouse](https://www.datahouse.com) and six other Computer Engineering students to develop a software-based solution for the Animal Quarantine facility, located at the Daniel K. Inouye International Airport here on the island of Oahu.
   
 By participating in the Community Innovation Mentorship Program (CIMP), I have learned the importance of all of the aspects of deploying a software-based solution from planner, financial, and developer perspectives. We also had the opportunity to learn about the Animal Quarantine Facility's processes in regards to general routines in order to develop a solution that was designed to ease day-to-day routines.
 
