@@ -13,12 +13,6 @@ labels:
 summary: Partnered with the company DataHouse, my team and I designed, developed, and installed a new queuing and check-in system for the Animal Quarantine Facility located at the Daniel K. Inouye International Airport.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
-</div>
 
 During the Spring 2020 semester, I had the great opportunity of working alongside professional mentors from the company [DataHouse](https://www.datahouse.com) and six other Computer Engineering students to develop a software-based solution for the Animal Quarantine facility, located at the Daniel K. Inouye International Airport here on the island of Oahu.
   
