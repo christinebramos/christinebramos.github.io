@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/doorsensor.png
+image: images/doorsensor.jpeg
 title: PIR Door Sensor
 permalink: projects/doorsensor
 # All dates must be YYYY-MM-DD format!
