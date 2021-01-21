@@ -1,25 +1,23 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/doorsensor.png
 title: Vacay
-permalink: projects/vacay
+permalink: projects/doorsensor
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2020-03-01
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Raspberry Pi
+  - C
+  - IR sensors
+summary: An Infrared sensor based project to count the number of individuals entering and exiting a room.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/doorsensor.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+This door sensor is a project I have created that was based on my sophomore project that was completed in Spring 2018.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+Originally created using an Arduino in a group setting, I decided to recreate the project for my previous workplace, the Manoa Career Center, at the University of Hawaii at Manoa for one of the Career Fair events we would hold every semester. This recreation of the project included two IR sensors that were configured side-by-side. The logic was based on triggering one sensor before the other as an individual would enter or exit a room. Depending on which sensor was triggered first, the program would determine it either an enter or exit as the contraption would be placed next to a doorframe.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+These determinations would then be summed into a total that would reflect the number of individuals in a room.
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
