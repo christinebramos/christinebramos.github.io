@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cimp.jpg
+image: images/cimp.png
 title: CIMP Animal Quarantine
 permalink: projects/cimp
 # All dates must be YYYY-MM-DD format!
