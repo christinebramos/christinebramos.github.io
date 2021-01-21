@@ -63,10 +63,11 @@
       "level": "",
       "keywords": [
         "MacOS",
+        "Windows",
         "Ubuntu",
+        "MATLAB",
         "Git/GitHub",
-        "g++",
-        "Windows"
+        "g++"
       ]
     }
   ],
@@ -89,9 +90,10 @@
       "website": "",
       "startDate": "2020-08-24",
       "endDate": "Present",
-      "summary": "",
+      "summary": "Part-time",
       "highlights": [
-        ""
+        "Provides technical support for various project platforms",
+        "Develops and configures workflows for various projects"
       ]
     },
     {
