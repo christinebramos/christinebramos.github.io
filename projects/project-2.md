@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/doorsensor.png
-title: Vacay
+title: IR Door Sensor
 permalink: projects/doorsensor
 # All dates must be YYYY-MM-DD format!
 date: 2020-03-01
