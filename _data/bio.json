@@ -2,7 +2,7 @@
   "basics": {
     "name": "Christine Ramos",
     "label": "Student",
-    "picture": "https://github.com/christinebramos/christinebramos.github.io/blob/master/images/IMG_3344.jpg",
+    "picture": "../images/IMG_3344.jpg",
     "email": "cbramos6@hawaii.edu",
     "phone": "808-256-0030",
     "website": "https://christinebramos.github.io",
@@ -31,8 +31,6 @@
     {
       "name": "Software Engineering",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
