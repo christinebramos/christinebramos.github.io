@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/cimp.jpg
 title: CIMP Animal Quarantine
-permalink: projects/micromouse
+permalink: projects/cimp
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-01
 labels:
