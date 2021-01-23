@@ -24,3 +24,8 @@ Tied to my passion for artistic creations, science, and technology, I found lear
 In the future, I hope to continue learning many programming languages such as Java, Javascript, PHP, and C#. Working as a Software Engineer, I also hope to be a part of many projects that cultivate creative and efficient innovations that have the power of technology and development at its center. With my passion of aiding people in times of need, I hope to continue being a part of technological advancements that are driven by helping the many communities of the world.
 
 
+
+
+
+
+
