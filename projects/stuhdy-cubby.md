@@ -32,30 +32,33 @@ summary: Web application developed and designed with team effort as a final proj
   My contributions to this project include the development and design of the web application's landing, admin, profiles, and user profile pages. 
   
 ### Landing/Home Page
+
   The landing/home page has been developed and designed with the project's purpose in mind allow with user accessibility. The team wanted to provide users with an overview of the application and easy access to its capabilities.
   
-<img class="ui image" src="../images/homepage-full.PNG">
+<img src="../images/homepage-full.PNG">
   
 ### Admin Home Page
+
   The admin home page has been developed and designed to provide users with the 'admin' role access to all created sessions within the application. Admin users are able to view the details of created sessions in table view for easy viewing. Details such as course, topic, date/time, location, and owner are able to be seen.
   
   Admin users are also able to add sessions through this page by clicking the 'Add Session' button which will direct them to the 'Add Session' page. All sessions created by admin users can be seen in the 'My Sessions' table for organization purposes along with the 'All Sessions' table.
   
-![](https://github.com/christinebramos/christinebramos.github.io/blob/master/images/admin.PNG)
+<img src="../images/admin.PNG>
   
 ### Profiles Page
   The profiles page has been designed and developed to allow users to view other users and their profile details. By viewing the profiles listed on the page, users are able to view profile details of selected users such as their email, institution, class standing, interests, and skills. This page provides users with the ability to connect and network with others who may share the same profile details.
   
   All profile details are updated when users update their profile information via their profile page.
   
-![](https://github.com/christinebramos/christinebramos.github.io/blob/master/images/profiles.PNG)
+<img src="../images/profiles.PNG>
   
-![](https://github.com/christinebramos/christinebramos.github.io/blob/master/images/profiles-detail.PNG)
+<img src="../images/profiles-detail.PNG>
   
 ### User Profile Page
+
   The user profile page has been developed and designed with users' information management in mind. From this page, users will be able to view and edit their profile details via a form they have completed through registering their account. Users are able to edit their information at any time and will update their profile details on the Profiles page shown above. Users' created sessions will also be displayed on the right sidebar to provide them with visual reminders.
   
-  ![](https://github.com/christinebramos/christinebramos.github.io/blob/master/images/profile.PNG)
+<img src="../images/profile.PNG>
 
 ## Learning Experience
 
