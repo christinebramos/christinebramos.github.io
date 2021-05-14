@@ -107,6 +107,44 @@
       ]
     }
   ],
+  "activities": [
+    {
+      "company": "University of Hawaii Rainbow Warrior Marching Band",
+      "position": "Field Staff",
+      "startDate": "2019-08-20",
+      "endDate": "Present",
+      "highlights": [
+        "Assist with on-field operations",
+        "Observe and manage show formations"
+      ]
+    },
+    {
+      "company": "University of Hawaii Concert Band",
+      "startDate": "2017-01-10",
+      "endDate": "2021-05-14",
+      "highlights": [
+        "Perform concerts during the semester at various locations",
+        "Record classical pieces with ensembles"
+      ]
+    },
+    {
+      "company": "University of Hawaii Rainbow Warrior Marching Band",
+      "position": "Section Leader",
+      "startDate": "2018-08-14",
+      "endDate": "2018-12-16",
+      "highlights": [
+        "Plan and coordinate with section members",
+        "Lead section rehearsals",
+        "Collaborate with band directors, staff, and fellow section leaders"
+      ]
+    },    
+    {
+      "company": "University of Hawaii Symphonic Band",
+      "startDate": "2018-01-10",
+      "endDate": "2018-05-20",
+      "highlights": "Perform concerts during the semester at various locations"
+    }    
+  ],
   "volunteer": [
     {
       "organization": "New Hope Leeward West Oahu",
